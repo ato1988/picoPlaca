@@ -12,7 +12,7 @@ public class FechaTest {
 	
 	
 	@Test
-	public void formatoNoCorrectoCaracteres() {
+	public void formatoCorrecto() {
 
 		Validacion validacion = new Validacion();
 
